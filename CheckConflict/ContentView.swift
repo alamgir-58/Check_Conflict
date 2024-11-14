@@ -18,7 +18,6 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Alamgir")
-            
         }
         .padding()
     }
